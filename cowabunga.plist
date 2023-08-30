@@ -10,7 +10,7 @@
                      <key>kind</key>
                      <string>software-package</string>
                      <key>url</key>
-                     <string>link here</string>
+                     <string>https://github.com/Ixolaro/mod-files/raw/main/Cowabunga-signed.ipa</string>
                      
                      </dict>
                   <dict>
@@ -25,13 +25,13 @@
                <key>metadata</key>
                <dict>
                   <key>bundle-identifier</key>
-                  <string>bundle id here</string>
+                  <string>com.leminlimez.Cowabunga.7TCQB8BW97</string>
                   <key>bundle-version</key>
                   <string>0</string>
                   <key>kind</key>
                   <string>software</string>
                   <key>title</key>
-                  <string>name here</string>
+                  <string>Cowabunga</string>
                </dict>
             </dict>
          </array>

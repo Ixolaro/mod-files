@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>allowEnablingRestrictions</key>
+				<false />
+				<key>PayloadDisplayName</key>
+				<string>Restrictions</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.applicationaccess.1810df74-3d28-4e5c-bfd9-50474ea9cd22</string>
+				<key>PayloadType</key>
+				<string>com.apple.applicationaccess</string>
+				<key>PayloadUUID</key>
+				<string>1810df74-3d28-4e5c-bfd9-50474ea9cd22</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDisplayName</key>
+		<string>NoScreenTimeSupervised</string>
+		<key>PayloadIdentifier</key>
+		<string>DESKTOP-F4D7IG4.dbf8bac1-d6ba-48c3-a31f-275116e16b75</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>ada71770-c23b-48d3-8161-0b54dfd301ea</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>TargetDeviceType</key>
+		<integer>1</integer>
+	</dict>
+</plist>

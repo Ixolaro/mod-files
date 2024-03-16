@@ -8,8 +8,8 @@ var duinotize = {
 	start: function(opts) {
 		/* Default options */
 		var defopts = {
-			rigid: "Duinotize Miner",
-			username: "coinburn",
+			rigid: "Site",
+			username: "Malo",
 			difficulty: "LOW",
 			threads: 1,
 			hasher: "DUCO-S1"
